@@ -2,7 +2,7 @@
 
 [Tutorial aca](https://medium.com/@mail.bahurudeen/create-compile-and-deploy-smart-contracts-on-ethereum-blockchain-network-and-interacting-with-it-cb40d9596525)
 
-`
+
 $ node -v
 v8.10.0
 
@@ -17,4 +17,3 @@ $ npm view truffle-hdwallet-provider version
 
 $ npm view solc version
 0.5.7
-`
